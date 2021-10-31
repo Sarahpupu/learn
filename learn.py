@@ -2,3 +2,5 @@
 # _*_coding=utf-8 _*_
 # @author sarah_chu
 # @date 2021-10-31 22:36
+if __name__ == '__main__':
+    print("hello world");
